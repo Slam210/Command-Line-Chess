@@ -8,7 +8,6 @@ Repeat for the destination.
 Features
 - Two player chess
 - Key labeling the piences.
-- 
 Not implented features yet:
 - No undos
 - No Promotion
